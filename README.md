@@ -27,21 +27,6 @@ Este proyecto está desarrollado con Python 3.8 y requiere las siguientes biblio
 - [SQLAlchemy](https://docs.sqlalchemy.org/en/14/) - para conectividad SQL y ORM en Python
 - [sqlite3](https://docs.python.org/3/library/sqlite3.html) - para crear y gestionar bases de datos SQL
 
-Para instalar las dependencias, es recomendable crear un entorno virtual:
-
-```bash
-# Crear entorno virtual
-python3 -m venv venv
-
-# Activar entorno virtual
-source venv/bin/activate  # En MacOS/Linux
-.
-env\Scripts ctivate  # En Windows
-
-# Instalar dependencias
-pip install -r requirements.txt
-```
-
 ## 📊 Resultados y Conclusiones
 
 - Se han identificado patrones clave de visualización de contenido, lo que permite optimizar las recomendaciones personalizadas.
